@@ -1,7 +1,7 @@
 ### Hi, I'm Satyendra Jangid!
 
 # 💫 About Me:
-Final year Student at NIT Agartala. Becoming a software engineer entails mastering coding, algorithms, and software design while embracing continuous learning and teamwork. It's about transforming ideas into impactful solutions, whether in web development, mobile apps, or emerging technologies. With a foundation in computer science and a passion for innovation, you'll navigate a dynamic career path filled with opportunities to create and evolve technology, making a significant impact on user experiences and the digital landscape.
+Graduated from NIT Agartala.Currently I am an Associate software developer at Tudip Technologiespvt Ltd. I have expertirs in Web Development and Backend mostly, working with NestJS, ExpressJS, and MySQL DB. Used Prisma ORM for model designing. Currently working with Python, Fast APIs and LLMs.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/satyendrajangid51/?utm_source=qr&igsh=MTNoY3E3dnd5YXp0eQ%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyendra-jangid-2195ba230/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SATYENDRAJANG15?t=K4-D2Pm4UQosZlYtPC4c0g&s=09&mx=2) 
